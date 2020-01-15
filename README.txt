@@ -1,4 +1,4 @@
-# starter-kit
+# Starterkit - Mix Workspace V1.0.1
 
 YEAH, you made it into a starter-kit!
 Start with the 0. Start folder.. read the introduction text and make sure to watch the videos from our website.
